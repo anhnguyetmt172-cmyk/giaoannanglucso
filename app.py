@@ -5,7 +5,7 @@ import tempfile
 import os
 import io
 import re
-from docx import python-docx
+from docx import ducument
 from docx.shared import Pt, RGBColor, Inches, Cm
 from docx.enum.text import WD_ALIGN_PARAGRAPH
 
